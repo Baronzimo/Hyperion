@@ -17,3 +17,8 @@ cp file ~/Desktop
 cd Desktop
 
 pyhon3 hyperion.py
+
+შემდეგ კი სასურველი დომეინის მთლიანი ბმული მაგალითად
+
+https://example.com
+
